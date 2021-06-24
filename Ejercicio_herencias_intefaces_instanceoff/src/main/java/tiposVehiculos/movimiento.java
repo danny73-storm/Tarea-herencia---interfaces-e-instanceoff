@@ -5,9 +5,9 @@ package tiposVehiculos;
  *
  * @author Danny
  */
-public interface movimieto {
+public interface movimiento {
     
     public void girarDerecha();
-    public void girerIzquierda();
+    public void girarIzquierda();
     
 }
