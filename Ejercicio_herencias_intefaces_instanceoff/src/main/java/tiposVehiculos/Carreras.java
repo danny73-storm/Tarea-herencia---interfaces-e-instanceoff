@@ -9,6 +9,8 @@ package tiposVehiculos;
  *
  * @author Danny
  */
-public class Carreras {
+public interface Carreras {
+    
+    public void turbo();
     
 }

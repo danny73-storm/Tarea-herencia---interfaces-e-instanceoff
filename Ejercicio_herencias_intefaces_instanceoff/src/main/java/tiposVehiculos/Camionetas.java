@@ -9,6 +9,8 @@ package tiposVehiculos;
  *
  * @author Danny
  */
-public class Camionetas {
+public interface Camionetas {
+    
+    public void trasnportePersonas();
     
 }

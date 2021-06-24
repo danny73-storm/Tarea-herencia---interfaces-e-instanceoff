@@ -9,6 +9,7 @@ package tiposVehiculos;
  *
  * @author Danny
  */
-public class Carga {
+public interface Carga {
     
+    public void transporteMaterial();
 }
