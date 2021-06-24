@@ -63,7 +63,7 @@ public abstract class Automovil extends Vehiculo{
         this.aceleraBase = aceleraBase;
     }
     
-    
+    @Override
     public String toString(){
         return super.toString()+ "tipo de motor: "+ motor 
                 +"\nCantidad de gasolina: " + cantGalo 
